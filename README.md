@@ -5,7 +5,7 @@ A video demonstration of the GUI and operation can be found [here](https://www.y
 ## Abstract  
 The barn owl is a very common night owl. A research conducted at the department of zoology of TAU examines the spots on its belly.  
 In this project, I built a software for their research. The software gets pictures of owls from the user, and produces statistical data about the spots on their plumage.  
-
+![Plumage to data](https://github.com/naftali10/Feather-Ananlysis-of-the-Barn-Owl/blob/main/Plumage%20to%20Data.jpg)
 ## Technical information  
 All of the development was in the laboratory of signal and image processing.  
 Principles of image processing used:
