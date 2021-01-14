@@ -1,5 +1,5 @@
 # Feather Ananlysis of the Barn Owl  
-This is a semesteral project of mine, made in 2012 during my studies at the Techion - the Israeli Institute of Technology.  
+An image-processing semesteral project of mine, made in 2012 during my studies at the Techion - the Israeli Institute of Technology.  
 The project won the **Thomas Schwartz award of excellence** - the best project of the semester.  
 A video demonstration of the GUI and operation can be found [here](https://www.youtube.com/watch?v=E-JBPmPlk4I).
 ## Abstract  
